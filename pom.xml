@@ -53,6 +53,13 @@
         <module>threadleak</module>
         <module>memoryref</module>
     </modules>
+    
+    <repositories>
+        <repository>
+            <id>nexus</id>
+            <url>http://13.235.17.22:8081</url>
+        </repository>
+    </repositories>
 
     <dependencyManagement>
         <dependencies>
