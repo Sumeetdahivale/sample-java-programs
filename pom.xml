@@ -145,12 +145,6 @@
             </build>
         </profile>
     </profiles>
-    
-    <repositories>
-        <repository>
-            <id>nexus</id>
-            <url>http://13.235.17.22:8081</url>
-        </repository>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
